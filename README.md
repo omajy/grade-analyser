@@ -1,1 +1,4 @@
-This project involves predicting student grades using a dataset containing information like nationality, city, age, and gender. The data was preprocessed with label encoding for categorical variables. A Random Forest Regressor was implemented using scikit-learn to build a predictive model. Model performance was evaluated using Mean Squared Error (MSE) and R² Score, showing slight improvements. 
+#student-exploratory-data-analysis
+
+Student database analysis using pandas, matplotlib, numpy, and seaborn libraries
+Simple model implementation for predicting grades using scikit-learn supervised machine learning algorithm random forest regression
